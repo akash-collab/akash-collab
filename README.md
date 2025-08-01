@@ -38,6 +38,41 @@
 </p>
 
 ---
+---
+
+<h3 align="left">🚀 Top Projects:</h3>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h4>📘 MealMaster App</h4>
+      <p>AI-Powered Meal Planner using MERN & Gemini API</p>
+      <a href="https://mealmaster.vercel.app/" target="_blank">🔗 Live Demo</a> |
+      <a href="https://github.com/akash-collab/MealMaster_App" target="_blank">📂 GitHub Repo</a>
+    </td>
+    <td align="center" width="50%">
+      <h4>📗 Loan Application System</h4>
+      <p>End-to-End Loan Management Portal with Firebase Auth</p>
+      <a href="https://loanapp.vercel.app/" target="_blank">🔗 Live Demo</a> |
+      <a href="https://github.com/akash-collab/loan-app" target="_blank">📂 GitHub Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h4>📙 Virtual Book Club</h4>
+      <p>Community platform with real-time discussions</p>
+      <a href="https://bookclub.vercel.app/" target="_blank">🔗 Live Demo</a> |
+      <a href="https://github.com/akash-collab/virtual-book-club" target="_blank">📂 GitHub Repo</a>
+    </td>
+    <td align="center" width="50%">
+      <h4>📕 Interactive Event Calendar</h4>
+      <p>Drag-and-drop calendar with holiday filters and search</p>
+      <a href="https://eventcalendar.vercel.app/" target="_blank">🔗 Live Demo</a> |
+      <a href="https://github.com/akash-collab/event-calendar-app" target="_blank">📂 GitHub Repo</a>
+    </td>
+  </tr>
+</table>
+---
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">

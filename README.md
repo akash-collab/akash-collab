@@ -81,10 +81,16 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h4>📙 Virtual Book Club</h4>
-      <p>Community platform with real-time discussions</p>
+      <h4>📙 Book Verse App</h4>
+      <p>Community platform with real-time discussions for book lovers</p>
       <a href="https://bookverse-beta.vercel.app/" target="_blank">🔗 Live Demo</a> |
       <a href="https://github.com/akash-collab/bookverse" target="_blank">📂 GitHub Repo</a>
+    </td>
+    <td align="center" width="50%">
+      <h4>📙 Gemini Chat App</h4>
+      <p>Community platform with real-time discussions</p>
+      <a href="https://gemini-react-chat.vercel.app/" target="_blank">🔗 Live Demo</a> |
+      <a href="https://github.com/akash-collab/gemini-react-chat" target="_blank">📂 GitHub Repo</a>
     </td>
   </tr>
 </table>

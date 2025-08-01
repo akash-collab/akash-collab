@@ -69,8 +69,8 @@
     <td align="center" width="50%">
       <h4>📘 MealMaster App</h4>
       <p>AI-Powered Meal Planner using MERN & Gemini API</p>
-      <a href="https://mealmaster.vercel.app/" target="_blank">🔗 Live Demo</a> |
-      <a href="https://github.com/akash-collab/MealMaster_App" target="_blank">📂 GitHub Repo</a>
+      <a href="https://mealmaster-frontend.onrender.com" target="_blank">🔗 Live Demo</a> |
+      <a href="https://github.com/akash-collab/MealMaster" target="_blank">📂 GitHub Repo</a>
     </td>
     <td align="center" width="50%">
       <h4>📗 Loan Application System</h4>

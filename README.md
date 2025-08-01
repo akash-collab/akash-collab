@@ -75,22 +75,16 @@
     <td align="center" width="50%">
       <h4>📗 Loan Application System</h4>
       <p>End-to-End Loan Management Portal with Firebase Auth</p>
-      <a href="https://loanapp.vercel.app/" target="_blank">🔗 Live Demo</a> |
-      <a href="https://github.com/akash-collab/loan-app" target="_blank">📂 GitHub Repo</a>
+      <a href="https://loan-application-system-lovat.vercel.app/" target="_blank">🔗 Live Demo</a> |
+      <a href="https://github.com/akash-collab/Loan-Application-System" target="_blank">📂 GitHub Repo</a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <h4>📙 Virtual Book Club</h4>
       <p>Community platform with real-time discussions</p>
-      <a href="https://bookclub.vercel.app/" target="_blank">🔗 Live Demo</a> |
-      <a href="https://github.com/akash-collab/virtual-book-club" target="_blank">📂 GitHub Repo</a>
-    </td>
-    <td align="center" width="50%">
-      <h4>📕 Interactive Event Calendar</h4>
-      <p>Drag-and-drop calendar with holiday filters and search</p>
-      <a href="https://eventcalendar.vercel.app/" target="_blank">🔗 Live Demo</a> |
-      <a href="https://github.com/akash-collab/event-calendar-app" target="_blank">📂 GitHub Repo</a>
+      <a href="https://bookverse-beta.vercel.app/" target="_blank">🔗 Live Demo</a> |
+      <a href="https://github.com/akash-collab/bookverse" target="_blank">📂 GitHub Repo</a>
     </td>
   </tr>
 </table>

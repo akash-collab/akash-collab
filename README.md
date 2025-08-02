@@ -25,7 +25,7 @@
 <p align="left">
   <a href="https://codepen.io/akash-paul-the-lessful" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Akash Paul on CodePen" width="30" />
-  </a>
+  </a> <br>
   <a href="https://www.linkedin.com/in/akash-paul-dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Akash Paul on LinkedIn" width="30" />
   </a>

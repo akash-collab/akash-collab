@@ -22,16 +22,16 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" style="display: flex; gap: 12px ">
+<p align="left">
   <a href="https://codepen.io/akash-paul-the-lessful" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Akash Paul on CodePen" width="30" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/akash-paul-dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Akash Paul on LinkedIn" width="30" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/@akashpaul9343" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Akash Paul on YouTube" width="30" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://leetcode.com/akashakii774/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Akash Paul on LeetCode" width="30" />
   </a>

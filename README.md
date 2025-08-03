@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/1MxbkpDdmCF5N8Bss8L8yeHhp-Qkmj0UC/view?usp=sharing" alt="Banner" />
+  <img src="https://drive.google.com/uc?export=view&id=1MxbkpDdmCF5N8Bss8L8yeHhp-Qkmj0UC" alt="Akash Paul Banner" />
 </p>
 <h1 align="center">Hi 👋, I'm Akash Paul</h1>
 <h3 align="center">Full Stack Developer | MERN Enthusiast | Building Scalable Web Apps | Open to Collaboration</h3>

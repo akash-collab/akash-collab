@@ -22,7 +22,7 @@
 - 💬 Ask me about **React, Tailwind CSS, Express.js**
 - 📫 Reach me at: **akashakii774@gmail.com**
 - Welcome to my [LinkedIn](https://www.linkedin.com/in/akash-paul-dev/)
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1mgj3iVu_6cC4bMm55qsEJP25txBWNo4h/view?usp=sharing)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1mgj3iVu_6cC4bMm55qsEJP25txBWNo4h)
 
 ---
 

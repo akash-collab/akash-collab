@@ -123,5 +123,5 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=akash-collab" alt="GitHub Streak" />
+ <img align="center" src="https://streak-stats.demolab.com?user=akash-collab" alt="GitHub Streak" />
 </p>

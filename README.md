@@ -122,6 +122,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-collab&show_icons=true&locale=en" alt="Akash Paul's GitHub Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-collab" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=akash-collab" alt="GitHub Streak" />
 </p>

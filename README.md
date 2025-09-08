@@ -17,7 +17,6 @@
 
 ---
 
-- 🌱 Currently learning **System Design**
 - 👨‍💻 All my projects live at: [akashpaul.vercel.app](https://akashpaul.vercel.app)
 - 💬 Ask me about **React, Tailwind CSS, Express.js**
 - 📫 Reach me at: **akashakii774@gmail.com**
